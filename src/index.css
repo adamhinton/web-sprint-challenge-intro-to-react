@@ -5,12 +5,11 @@ body {
   background-image: url('./images/sw-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: blue;
-  display: flex;
-  justify-content: center;
   height: 100%;
 }
 
 html{
   height: 100%;
 }
+
+/* Made a couple adjustments here. Made background-repeat no-repeat because the image was trailing off. And justify-content center. */
